@@ -5,4 +5,4 @@ Lib/
 Scripts/
 pyvenv.cfg
 requirements.txt
-utils/__pycache__/
+utils/__pycache__/*.pyc
